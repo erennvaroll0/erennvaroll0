@@ -12,17 +12,5 @@ IT Intern at Menatek Defense Technologies · Istanbul, Türkiye
 
 Hi, I'm Eren. I'm interested in cybersecurity and artificial intelligence.
 
-🧰 Skills
-<div align="center">
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
 </div>
-🚀 Projects
-Project	Description
-Aeroblaze	Software project manager; image processing
-Asenat	Data processing
-🔭 Currently
-Building cybersecurity skills: network security and endpoint protection
-Open to internship and junior roles in cybersecurity and systems/network administration
-<br/> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&theme=default&count_private=true" height="150" alt="GitHub stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages"/> </div>
